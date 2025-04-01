@@ -1,0 +1,21 @@
+[
+  {
+    "icon": "star",
+    "size": 52,
+    "title": "The quality of our work",
+    "descr": "We offer some of the highest quality services, because our team employs only highly qualified workers",
+    "css": "transform: scale(1.2); margin-left: 7px; @media (max-width: 600px) { margin-left: -5px; }"
+  },
+  {
+    "icon": "heart",
+    "size": 52,
+    "title": "customer care",
+    "descr": "We always strive tirelessly to improve our services to maximize the satisfaction of our clientele."
+  },
+  {
+    "icon": "flash",
+    "size": 52,
+    "title": "speed of service provision",
+    "descr": "We consistently strive to provide our customers with swift and efficient service, ensuring their needs are promptly addressed and met"
+  }
+]

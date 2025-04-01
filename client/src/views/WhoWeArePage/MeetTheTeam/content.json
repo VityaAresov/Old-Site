@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Timofey",
+    "src": "./images/meet-the-team/team-1.webp",
+    "fullName": "Timofey Faldin",
+    "position": "CMO Viks Production, Video-Creator"
+  },
+  {
+    "name": "Viktor",
+    "src": "./images/meet-the-team/team-3.webp",
+    "fullName": "Viktor Soloviov",
+    "position": "CEO Viks Production, Producer, Video-Creator"
+  },
+  {
+    "name": "Maria",
+    "src": "./images/meet-the-team/team-2.webp",
+    "fullName": "Maria Faldina",
+    "position": "Creative Director Viks Production, Photographer"
+  }
+]

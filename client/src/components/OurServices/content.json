@@ -1,0 +1,55 @@
+[
+  {
+    "imgSrc": "./images/our-services/card-1.webp",
+    "title": "Producing",
+    "description": "Full production for social networks of your business / personal brand",
+    "details": [
+      { "text": "Discovering your niche" },
+      { "text": "Development of strategy" },
+      { "text": "Curation of your personal brand" },
+      { "text": "Pack of 5-7 reels-video and 1-2 photoshoots" }
+    ]
+  },
+  {
+    "imgSrc": "./images/our-services/card-2.webp",
+    "title": "Photo / Video Production",
+    "description": "Creation of photo and/or video content for your purposes",
+    "details": [
+      { "text": "Shorts / Reels" },
+      { "text": "YouTube Videos" },
+      { "text": "Promo Videos" },
+      { "text": "Photoshooting" }
+    ]
+  },
+  {
+    "imgSrc": "./images/our-services/card-5.webp",
+    "title": "Design",
+    "description": "Custom designs that make your brand unforgettable",
+    "details": [
+      { "text": "Graphic Design" },
+      { "text": "Social Media Design" },
+      { "text": "Advertising Design" }
+    ]
+  },
+  {
+    "imgSrc": "./images/our-services/card-4.webp",
+    "title": "Marketing",
+    "description": "Marketing strategies that attract, engage, and convert",
+    "details": [
+      { "text": "Advertising your products / services" },
+      { "text": "Placing your products / services" },
+      { "text": "SMM - management" }
+    ]
+  },
+  {
+    "imgSrc": "./images/our-services/card-3.webp",
+    "title": "Web development",
+    "description": "Full web development of your website to close more of your sales",
+    "details": [
+      { "text": "Landing pages" },
+      { "text": "Corporate websites" },
+      { "text": "Business card websites" },
+      { "text": "Improve your website" }
+    ]
+  }
+]
